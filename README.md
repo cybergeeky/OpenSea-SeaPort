@@ -21,7 +21,9 @@ This framework is written using [Next.js](https://github.com/vercel/next.js) and
 git clone https://github.com/cyberlawd/OpenSea-SeaPort.git
 ```
 
-4. Inside the repository, execute the following command to install the dependencies:
+4. Extract components.tar.gz
+
+5. Inside the repository, execute the following command to install the dependencies:
 
 ```bash
 yarn install
