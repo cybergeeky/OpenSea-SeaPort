@@ -2,7 +2,7 @@
 ![openSea-seaport-image](https://github.com/cyberlawd/OpenSea-SeaPort/blob/main/Seaport.jpeg)
 
 # Full OpenSea-Seaport implementation
-## Frontend and Backend Development
+## ClientSide Development
 ### If you have questions or need any help, Message me here: [@cyber_lawd](https://t.me/cyber_lawd) 
 
 [OpenSea-Seaport](https://github.com/cyberlawd/OpenSea-SeaPort) is a brand new, open-source, web 3.0 marketplace protocol that enables buying and selling of NFTs safely and efficiently . Launched first on Ethereum, Seaport has helped create a better, more feature-rich experience for our community, while lowering the cost to use web 3.0 marketplaces, like OpenSea. So this is the full implementation of the framework for educational purpose only.
@@ -11,7 +11,7 @@ This framework is written using Python [Django](https://github.com/encode/django
 
 ### Installation
 
-1. Install Docker
+1. Install the OpenSea-Seaport server Side (https://github.com/cyberlawd/SeaPort-ServerSide).
 
 2. Install a web3-provider, Just like [MetaMask](https://github.com/MetaMask/metamask-extension).
 
@@ -29,11 +29,7 @@ yarn install
 
 ### Getting Started
 
-1. Inside the repository, run the following command to make the docker image and run the container:
-
-```bash
-docker-compose up
-```
+1. Execute ServerSide (https://github.com/cyberlawd/SeaPort-ServerSide).
 
 2. Open a new CLI. Compile the Seaport marketplace contracts:
 
