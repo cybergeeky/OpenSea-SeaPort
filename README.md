@@ -11,14 +11,14 @@ This framework is written using [Next.js](https://github.com/vercel/next.js) and
 
 ### Installation
 
-1. Install the OpenSea-Seaport server Side (https://github.com/CyberGeeky/SeaPort-ServerSide).
+1. Install the OpenSea-Seaport server Side (https://github.com/cybergeeky/SeaPort-ServerSide).
 
 2. Install a web3-provider, Just like [MetaMask](https://github.com/MetaMask/metamask-extension).
 
 3. Open a [(CLI) Command Line Interface](https://en.wikipedia.org/wiki/Command-line_interface) and clone this repository:
 
 ```bash
-git clone https://github.com/CyberGeeky/OpenSea-SeaPort.git
+git clone https://github.com/cybergeeky/OpenSea-SeaPort.git
 ```
 
 4. Extract components.tar.gz
@@ -31,7 +31,7 @@ yarn install
 
 ### Getting Started
 
-1. Execute ServerSide (https://github.com/CyberGeeky/SeaPort-ServerSide).
+1. Execute ServerSide (https://github.com/cybergeeky/SeaPort-ServerSide).
 
 2. Open a new CLI. Compile the Seaport marketplace contracts:
 
